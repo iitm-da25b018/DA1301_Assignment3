@@ -1,3 +1,2 @@
-i like food 
-i am learning how branches work in git
-
+This file was created on the practice branch.
+I am learning how branches work in Git.
