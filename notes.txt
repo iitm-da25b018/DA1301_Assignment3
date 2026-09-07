@@ -1,1 +1,2 @@
 learning git and bash
+i am learning to use git
